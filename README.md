@@ -18,7 +18,7 @@ This simple command-line tool will prompt you with a series of questions regardi
 
 
 This readme.md generator produces a perfect, professional README.md file for your next project. The program will ask you basic information about your project, including title, description, challenges, features, etc. It will also allow you to choose your preferred license badge. The resulting file will be clean, professional and ready for publication. In order to use this tool, use the following command from the project folder:
-  node index.js  
+  `node index.js`  
 Then you simply follow the prompts until you are done and the program lets you know that your readme is ready.
 
 ### Challenges encountered  
@@ -26,7 +26,7 @@ This project was a good excercise in modularization of code, and using logic to 
 
 ### How to install  
 To install this tool, simply clone this repository to your local machine. From the command-line, navigate to the cloned project folder and enter the following:   
-  npm i  
+  `npm i`  
 This will install the needed packages.
 
 ### Where credit is due  
