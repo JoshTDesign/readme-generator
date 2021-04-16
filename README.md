@@ -51,6 +51,9 @@ Use the command `node index.js` to start the program
 ![How-to-start](https://user-images.githubusercontent.com/78992027/114969858-16045900-9e2e-11eb-9a54-71ea573a27cc.PNG)
 
 
+### Walkthrough
+I recorded a quick walkthrough to show the programs capabilities
+[Walkthrough Video](https://drive.google.com/file/d/1vnB14JDCCJSz0oEkZ3R1x0NEpm6TrlDr/view)
 
 ### Where credit is due  
 This project relies on the incredibly useful inquirer package for command-line queries. 
