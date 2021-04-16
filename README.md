@@ -27,22 +27,25 @@ This project was a good excercise in modularization of code, and using logic to 
 ### How to install  
 To install this tool, do the following:  
 
+### Step 1
+From this repository, go to the 'code' button, and copy the link to clone  
 
 ![How-to-install_1](https://user-images.githubusercontent.com/78992027/114969134-a5107180-9e2c-11eb-85e1-cbd2af5cff58.PNG)  
 
-^ From this repository, go to the 'code' button, and copy the link to clone  
 
+### Step 2
+From the command line, navigate to the folder you want to store this program and use the `git clone git@github.com:JoshTDesign/readme-generator.git` command.  
 
 ![How-to-install_2](https://user-images.githubusercontent.com/78992027/114969137-a80b6200-9e2c-11eb-9733-2565070a6950.PNG)  
 
-^ From the command line, navigate to the folder you want to store this program and use the `git clone git@github.com:JoshTDesign/readme-generator.git` command.  
 
+### Step 3
+From the command line, navigate into the project folder and use the `npm install` or `npm i` command. This will install the needed packages.
 
 ![How-to-install_3](https://user-images.githubusercontent.com/78992027/114969142-a93c8f00-9e2c-11eb-958f-5fc21e5d83e1.PNG)  
 
-^ From the command line, navigate into the project folder and use the `npm install` or `npm i` command. This will install the needed packages.
 
-
+### To start the program
 Use the command `node index.js` to start the program
 
 ![How-to-start](https://user-images.githubusercontent.com/78992027/114969858-16045900-9e2e-11eb-9a54-71ea573a27cc.PNG)
