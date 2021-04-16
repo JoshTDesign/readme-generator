@@ -25,9 +25,29 @@ Then you simply follow the prompts until you are done and the program lets you k
 This project was a good excercise in modularization of code, and using logic to determine text output. One challenge in particular was learning how to inject string directly into my markdown template using javascript. Also, I learned a lot about markdown language and having dynamic content format correctly in the .md file.
 
 ### How to install  
-To install this tool, simply clone this repository to your local machine. From the command-line, navigate to the cloned project folder and enter the following:   
-  `npm i`  
-This will install the needed packages.
+To install this tool, do the following:  
+
+
+![How-to-install_1](https://user-images.githubusercontent.com/78992027/114969134-a5107180-9e2c-11eb-85e1-cbd2af5cff58.PNG)  
+
+^ From this repository, go to the 'code' button, and copy the link to clone  
+
+
+![How-to-install_2](https://user-images.githubusercontent.com/78992027/114969137-a80b6200-9e2c-11eb-9733-2565070a6950.PNG)  
+
+^ From the command line, navigate to the folder you want to store this program and use the `git clone git@github.com:JoshTDesign/readme-generator.git` command.  
+
+
+![How-to-install_3](https://user-images.githubusercontent.com/78992027/114969142-a93c8f00-9e2c-11eb-958f-5fc21e5d83e1.PNG)  
+
+^ From the command line, navigate into the project folder and use the `npm install` or `npm i` command. This will install the needed packages.
+
+
+Use the command `node index.js` to start the program
+
+![How-to-start](https://user-images.githubusercontent.com/78992027/114969858-16045900-9e2e-11eb-9a54-71ea573a27cc.PNG)
+
+
 
 ### Where credit is due  
 This project relies on the incredibly useful inquirer package for command-line queries. 
